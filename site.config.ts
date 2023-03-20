@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Xiaoxia Xia',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'This Is XIAOXIA Website',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
